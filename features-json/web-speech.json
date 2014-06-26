@@ -1,7 +1,7 @@
 {
-  "title":"Web Speech API",
-  "description":"Method to provide speech input and text-to-speech output features in a web browser.",
-  "spec":"https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html",
+  "title":"Speech Recognition API",
+  "description":"Method to provide speech input features in a web browser.",
+  "spec":"https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html#speechreco-section",
   "status":"unoff",
   "links":[
     {
