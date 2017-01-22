@@ -9,6 +9,10 @@
       "title":"MDN \u2013 Detecting print requests"
     },
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/WindowEventHandlers",
+      "title":"WindowEventHandlers on MDN"
+    },
+    {
       "url":"http://crbug.com/218205",
       "title":"Chrome support bug"
     },
