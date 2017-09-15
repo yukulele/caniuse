@@ -7,6 +7,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Path2D",
       "title":"MDN article"
+    },
+    {
+      "url":"https://github.com/google/canvas-5-polyfill",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
